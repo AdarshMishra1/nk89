@@ -1,6 +1,6 @@
 name: CI
 
-on:[Push, workflow_dispatch]
+on: [Push, workflow_dispatch]
 
 jobs:
 bild:
